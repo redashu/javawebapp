@@ -20,7 +20,7 @@ spec:
       containers:
       - image: dockerashu/lnbweb/v1
         name: v1
-        imagePullPolicy: always
+        imagePullPolicy: Always
         resources: {}
 status: {}
 
