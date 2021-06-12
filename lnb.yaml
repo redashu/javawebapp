@@ -39,7 +39,7 @@ spec:
     protocol: TCP
     targetPort: 8080
   selector:
-    app: svc1
+    app: webapp1
   type: NodePort
 status:
   loadBalancer: {}
